@@ -17,4 +17,4 @@
 
 ## 📫 Let's Connect
 - LinkedIn: (https://www.linkedin.com/in/abdulmalik-sanusi-b3a0813a3)
-- Email: (sanusiabdulmalik00@gmail.com
+- Email: (sanusiabdulmalik00@gmail.com)
