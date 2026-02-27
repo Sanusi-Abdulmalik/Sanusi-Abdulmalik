@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Abdulmalik Sanusi 👋
 
-<!--
-**Sanusi-Abdulmalik/Sanusi-Abdulmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Engineer | Data Analyst  
+📊 Skilled in Excel, SQL, Power BI, Python  
+☁️ Learning AWS, Airflow & Data Pipelines  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Core Skills
+- Data Analysis (Excel, Power BI)
+- SQL (Joins, CTEs, Window Functions)
+- Python (Pandas, NumPy)
+- Data Visualization & Dashboarding
+- ETL Pipelines (Beginner – AWS S3, 
+
+---
+
+## 📫 Let's Connect
+- LinkedIn: (https://www.linkedin.com/in/abdulmalik-sanusi-b3a0813a3)
+- Email: (sanusiabdulmalik00@gmail.com
