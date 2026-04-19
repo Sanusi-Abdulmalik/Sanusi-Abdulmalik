@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Abdulmalik Sanusi.
 
-I’m Junior Data Engineer building scalable ETL pipelines, data warehouses, and automated workflows. I focus on SQL, Python, AWS S3, and Airflow to turn raw data into actionable insights and real-world solutions.
+I’m a Junior Data Engineer building scalable ETL pipelines, data warehouses, and automated workflows. I focus on SQL, Python, AWS S3, and Airflow to turn raw data into actionable insights and real-world solutions.
 
 ---
 
